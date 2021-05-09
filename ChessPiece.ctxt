@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChessPiece
+comment1.params=moveAttemptRow\ moveAttemptCol\ pieces\ checkCheck
+comment1.target=boolean\ subMove(int,\ int,\ ChessPiece[][],\ boolean)
+comment2.params=moveAttemptRow\ moveAttemptCol\ pieces\ checkCheck
+comment2.target=boolean\ move(int,\ int,\ ChessPiece[][],\ boolean)
+comment3.params=c\ g
+comment3.target=void\ draw(java.awt.Container,\ java.awt.Graphics)
+comment4.params=
+comment4.target=void\ moveSound()
+comment5.params=col\ row\ pieces
+comment5.target=boolean\ isCheck(int,\ int,\ ChessPiece[][])
+numComments=6

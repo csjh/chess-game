@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rook
+comment1.params=row\ col\ alive\ color
+comment1.target=Rook(int,\ int,\ boolean,\ char)
+comment2.params=moveAttemptRow\ moveAttemptCol\ pieces\ checkCheck
+comment2.target=boolean\ subMove(int,\ int,\ ChessPiece[][],\ boolean)
+comment3.params=col\ row
+comment3.target=void\ castle(int,\ int)
+numComments=4
