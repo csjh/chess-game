@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Bishop
-comment1.params=row\ col\ alive\ color
-comment1.target=Bishop(int,\ int,\ boolean,\ char)
-comment2.params=moveAttemptRow\ moveAttemptCol\ pieces\ checkCheck
-comment2.target=boolean\ subMove(int,\ int,\ ChessPiece[][],\ boolean)
-numComments=3
