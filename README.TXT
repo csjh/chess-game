@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Welcome to my mostly working chess game! 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+I'll eventually get around to adding checkmate functionality. Right now everything should work besides that.
+
+Things to add:
+- Chess engine working alongside players to estimate side advantage
+- Starting a game from a position
